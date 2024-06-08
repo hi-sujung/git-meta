@@ -1,1 +1,1 @@
-# hisujung-meta
+# git-meta
