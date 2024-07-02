@@ -1,9 +1,11 @@
-/msa-front/
+/msa-front-app/
+/mas-frotn-web/
 /msa-member/
 /msa-notice/
 /msa-portfolio/
-/msa-crawling/
+/msa-crawling-external/
+/msa-crawling-univ/
 /msa-recommend/
-/msa-spring-cloud-gateway/
+/msa-auth-jwt/
 
 .DS_Store
