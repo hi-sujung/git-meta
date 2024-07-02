@@ -5,8 +5,8 @@
     "msa-member": "https://github.com/hi-sujung/msa-member.git",
     "msa-notice": "https://github.com/hi-sujung/msa-notice.git",
     "msa-portfolio": "https://github.com/hi-sujung/msa-portfolio.git",
-    "msa-crawling-external": "ttps://github.com/hi-sujung/msa-crawling-external.git",
-    "msa-crawling-univ": "ttps://github.com/hi-sujung/msa-crawling-univ.git",
+    "msa-crawling-external": "https://github.com/hi-sujung/msa-crawling-external.git",
+    "msa-crawling-univ": "https://github.com/hi-sujung/msa-crawling-univ.git",
     "msa-recommend": "https://github.com/hi-sujung/msa-recommend.git",
     "msa-auth-jwt": "https://github.com/hi-sujung/msa-auth-jwt.git"
   }
